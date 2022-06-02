@@ -1,7 +1,5 @@
-# ejercicio-alumno
+# Parcial FMI
 
-## Integrantes
+[![build](https://github.com/uqbar-project/parcial-fmi-haskell/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/parcial-fmi-haskell/actions/workflows/build.yml)
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+[Link al enunciado](https://drive.google.com/open?id=1l9UjDqVhLdeiON6rtXf7EwGU5JZvN2TWu5AJQzVmSwE)
