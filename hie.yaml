@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcial-fmi-haskell:lib"
+
+    - path: "./test"
+      component: "parcial-fmi-haskell:test:parcial-fmi-haskell-test"
